@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80328ce7-0eb9-4901-978f-1d322857c626" name="Default" comment="" />
+    <list default="true" id="80328ce7-0eb9-4901-978f-1d322857c626" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_all_2_4_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_spockframework_spock_core_1_1_groovy_2_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SpockProject.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aston/businesslogic/SpockBusinessLogic.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aston/spockfunctions/SpockIntegerUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aston/spockfunctions/SpockStringUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aston/spockmain/SpockMain.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aston/spockmain/impl/SpockMainImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aston/spockobjects/SpockObject.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/aston/businesslogic/SpockBusinessLogicSpec.groovy" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/aston/spockmain/SpockMainSpec.groovy" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/aston/why.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aston/businesslogic/SpockBusinessLogic.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aston/spockfunctions/SpockIntegerUtils.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aston/spockfunctions/SpockStringUtils.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aston/spockmain/SpockMain.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aston/spockmain/impl/SpockMainImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aston/spockobjects/SpockObject.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/aston/businesslogic/SpockBusinessLogicSpec.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/aston/spockmain/SpockMainSpec.class" />
+    </list>
     <ignored path="SpockProject.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -675,12 +709,12 @@
       <workItem from="1474481455652" duration="23048000" />
       <workItem from="1474637208392" duration="6931000" />
       <workItem from="1494530413962" duration="7528000" />
-      <workItem from="1516217862840" duration="358000" />
+      <workItem from="1516217862840" duration="770000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37865000" />
+    <option name="totallyTimeSpent" value="38277000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="6" width="1382" height="744" extended-state="0" />
